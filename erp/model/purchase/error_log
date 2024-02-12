@@ -1,0 +1,11 @@
+[14-Oct-2022 22:09:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/aicsaci1/public_html/erp_system/model/purchase/insertPurchase.php on line 69
+[17-Oct-2022 21:16:34 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'vendorID' cannot be null' in /home/aicsaci1/public_html/erp_system/model/purchase/insertPurchase.php:82
+Stack trace:
+#0 /home/aicsaci1/public_html/erp_system/model/purchase/insertPurchase.php(82): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/aicsaci1/public_html/erp_system/model/purchase/insertPurchase.php on line 82
+[17-Oct-2022 21:16:59 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'vendorID' cannot be null' in /home/aicsaci1/public_html/erp_system/model/purchase/insertPurchase.php:82
+Stack trace:
+#0 /home/aicsaci1/public_html/erp_system/model/purchase/insertPurchase.php(82): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/aicsaci1/public_html/erp_system/model/purchase/insertPurchase.php on line 82

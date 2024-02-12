@@ -1,0 +1,4 @@
+[17-Oct-2022 21:21:26 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/aicsaci1/public_html/erp_system/model/vendor/getVendorNames.php on line 3
+[17-Oct-2022 21:21:26 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/aicsaci1/public_html/erp_system/model/vendor/getVendorNames.php on line 3
+[30-Oct-2022 12:23:34 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/aicsaci1/public_html/erp_system/model/vendor/getVendorNames.php on line 3
+[30-Oct-2022 12:23:34 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/aicsaci1/public_html/erp_system/model/vendor/getVendorNames.php on line 3
